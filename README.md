@@ -6,6 +6,13 @@ This project focuses on short-term electricity demand forecasting using Long Sho
 ## Problem Statement
 Accurate short-term electricity demand forecasting is essential for efficient grid management. This project aims to reduce forecasting errors and improve decision-making for energy distribution systems.
 
+## Notebook
+
+Due to GitHub rendering limitations, the notebook may not preview correctly.
+
+Download and open locally to view full results:
+[lstm_power_forecasting.ipynb](./lstm_power_forecasting.ipynb)
+
 ## Methodology
 
 ### Data Processing
