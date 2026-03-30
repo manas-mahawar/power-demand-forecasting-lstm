@@ -43,3 +43,16 @@ Accurate short-term electricity demand forecasting is essential for efficient gr
 - NumPy, Pandas
 - TensorFlow / Keras
 - Matplotlib, Seaborn
+
+- ## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the notebook:
+   Open Project_EST_LSTM.ipynb in Jupyter or Colab
+
+## Applications
+- Smart grid optimization
+- Load forecasting for power systems
+- Energy consumption analysis
+- Demand-based energy planning
