@@ -13,6 +13,24 @@ Due to GitHub rendering limitations, the notebook may not preview correctly.
 Download and open locally to view full results:
 [lstm_power_forecasting.ipynb](./lstm_power_forecasting.ipynb)
 
+## Results
+
+### Prediction vs Actual
+
+![Prediction](./assets/output1.png)
+
+### Training Performance (MAE Curve)
+
+![MAE](./assets/output3.png)
+
+### Additional Performance View
+
+![Performance](./assets/output2.png)
+
+### Model Interpretation (SHAP)
+
+![SHAP](./assets/output4.png)
+
 ## Methodology
 
 ### Data Processing
